@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ikigai Journal</string>
+    <string name="edit_email">Email</string>
+    <string name="button_signin">Sign in</string>
+    <string name="edit_password">Password</string>
+    <string name="button_sign_out">Sign out</string>
+    <string name="button_new_entry">Create entry</string>
+    <string name="button_view_entries">View all entries</string>
+    <string name="button_analyze">Analyze entries</string>
+</resources>

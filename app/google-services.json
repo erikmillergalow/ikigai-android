@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083736983402",
+    "project_id": "ikigai-journal",
+    "storage_bucket": "ikigai-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083736983402:android:fcb6905b315aa2b0884713",
+        "android_client_info": {
+          "package_name": "com.jurgenmillerandgalow.ikigaijournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083736983402-5h37tqbu4ogs34vmnebta37hods0k4qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jurgenmillerandgalow.ikigaijournal",
+            "certificate_hash": "bc30fd6f17b0b45653fc6092d04a3367e6d51d56"
+          }
+        },
+        {
+          "client_id": "1083736983402-dd3h896kne8dmqbog40s038i0a66sjsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZukazefMZ-xh-aBl1sfyjfAig-uWJcro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083736983402-dd3h896kne8dmqbog40s038i0a66sjsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
